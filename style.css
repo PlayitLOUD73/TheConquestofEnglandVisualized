@@ -57,6 +57,8 @@ div.timeline {
 
 div.content-box {
    display:block; 
+   padding: 0px 0px 25px 0px;
+   min-height: 200px;
 }
 
 .btn {
@@ -68,3 +70,8 @@ div.content-box {
     background-color: blue;
     
   }
+
+#bottom {
+    position: absolute;
+    bottom: 0px;
+}
