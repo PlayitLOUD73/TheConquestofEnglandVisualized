@@ -8,9 +8,9 @@ class Header extends HTMLElement {
             <!-- Site Navigation Menu-->
             <ul class="navbar">
                 <li><a href="/index.html">Home</a></li>
-                <li><a href="/projects/projects.html">Projects</a></li>
-                <li><a href="/experience/experience.html">Experience</a></li>
-                <li style="float:right;"><a href="/contact/contact.html">Contact</a></li>
+                <li><a href="/map/map.html">Map</a></li>
+                <li><a href="/timeline/timeline.html">Timeline</a></li>
+                <li style="float:right;"><a href="/sources/sources.html">Sources</a></li>
             </ul>
         `;
   }
