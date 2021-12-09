@@ -33,8 +33,8 @@ function makeContentVisible(x) {
       "...the sun bright and hot, so hot that Harald's men "left their mail coats behind..." (64).
       The English sent in their calvary and were largely successful. On Stamford Bridge, a lone viking warrior
       made a last stand to give the Norwegians time to regroup (57).
-      Hardrada was killed by an arrow through his throat (Manley) and Tostig was killed when the English were
-      finishing off the remaining warriors who were willing to fight until the end.
+      Hardrada was killed by an arrow through his throat and Tostig was killed when the English were
+      finishing off the remaining warriors who were willing to fight until the end (Manley).
       The Norwegians left England in only 24 ships out of the nearly 300 they arrived in (Poss 65).
 
     </p>
