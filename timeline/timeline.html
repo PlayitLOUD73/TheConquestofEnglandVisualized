@@ -11,10 +11,17 @@
         <div class="foreground">
             <h2>Timeline of the Conquest</h2>
             <div class="content-box" style="visibility: hidden;"></div>
-
             <div class="timeline">
-                <button class ="btn" onclick="makeContentVisible(0)"></button>
-                <button class ="btn" onclick="makeContentVisible(1)"></button>
+                <div style="z-index:0;">
+                    <hr style="position:absolute; width:1000px; border:none; height:3px; background-color: black;">
+                </div>
+                <div style="z-index:1;">
+                    <ul>
+                        <button class ="btn" onclick="makeContentVisible(0)"></button>
+                        <button class ="btn" onclick="makeContentVisible(1)"></button>
+                    </ul>
+                </div>
+                
             </div>
             
         </div>
