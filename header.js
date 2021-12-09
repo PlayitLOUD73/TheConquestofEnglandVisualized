@@ -14,7 +14,7 @@ class Header extends HTMLElement {
               </button>
               <div class="dropdown-content">
                 <a href="/map/map1066.html">1066 Map</a>
-                <a href="#">Link 2</a>
+                <a href="/map/mapHastings.html">Battle of Hastings Map</a>
                 <a href="#">Link 3</a>
               </div>
             </div> 
