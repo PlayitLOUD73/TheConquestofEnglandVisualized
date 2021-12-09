@@ -23,8 +23,21 @@ function makeContentVisible(x) {
   if (x === 1) {
     document.getElementsByClassName("content-box")[0].innerHTML = `
     <h3>The Battle of Stamford Bridge</h3>
-    <h4>When: <br>Who: English vs. Norwegians</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4>When: 25 September 1066<br>Who: English vs. Norwegians</h4>
+    <p>The English were led by King Harold of England. 
+    The Norweigans were led by King Harald of Norway with help from Tostig.</p>
+    <p>
+      The army of King Hardrada was camped in the surrounding areas of Stamford Bridge.
+      King Harold caught the Norweigan army unprepared.
+      Poss wrote in <cite>Behind the Shield-wall: The Experience of Combat in Late Anglo-Saxon England</cite>,
+      "...the sun bright and hot, so hot that Harald's men "left their mail coats behind..." (64).
+      The English sent in their calvary and were largely successful. On Stamford Bridge, a lone viking warrior
+      made a last stand to give the Norwegians time to regroup (57).
+      Hardrada was killed by an arrow through his throat (Manley) and Tostig was killed when the English were
+      finishing off the remaining warriors who were willing to fight until the end.
+      The Norwegians left England in only 24 ships out of the nearly 300 they arrived in (Poss 65).
+
+    </p>
     `;
   }
   if (x == 2) {
@@ -32,7 +45,7 @@ function makeContentVisible(x) {
     <h3>The Battle of Hastings</h3>
     <h4>When: 14 October 1066<br>Who: English vs. Normans</h4>
     <p>The English were led by King Harold of England.
-    The Norweigans were led by King Harald of Norway with help from Tostig.</p>
+    The Normans were led by William of Normandy.</p>
     <p>The English held the high ground in this battle. For most of the battle, the English were able to 
         hold the line against the Norman infantry and calvary. The Normans would retreat and then turn on
         the English that pursued them. The battle turned when Harold was fatally injured. Jordan Poss wrote,
