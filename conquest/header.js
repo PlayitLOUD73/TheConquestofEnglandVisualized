@@ -13,14 +13,14 @@ class Header extends HTMLElement {
                 <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
-                <a href="/map/map1066.html">1066 Map</a>
+                <a href="/conquest/map/map1066.html">1066 Map</a>
                 <a href="#">Link 2</a>
                 <a href="#">Link 3</a>
               </div>
             </div> 
-            <a href="/timeline/timeline.html">Timeline</a>
-            <a href="/people/people.html">People</a>
-            <a style="float:right" href="/sources/sources.html">Sources</a>
+            <a href="/conquest/timeline/timeline.html">Timeline</a>
+            <a href="/conquest/people/people.html">People</a>
+            <a style="float:right" href="/conquest/sources/sources.html">Sources</a>
           </div>
         `;
   }
